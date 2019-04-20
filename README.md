@@ -12,3 +12,4 @@ VIM
 
 JAVASCRIPT
 1. https://javascript.info/
+2. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
