@@ -13,3 +13,6 @@ VIM
 JAVASCRIPT
 1. https://javascript.info/
 2. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+
+PYTHON DESIGN PATTERNS
+1. https://github.com/faif/python-patterns
