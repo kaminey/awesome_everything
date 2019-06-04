@@ -7,7 +7,7 @@ CSS
 4. https://unravelingflexbox.com/
 
 VIM
-1. https://www.taurusmutualfund.com/pdf/NISM_Distributors_Workbook.pdf
+1. https://www.openvim.com/
 
 GOLANG
 1. https://www.calhoun.io/5-useful-ways-to-use-closures-in-go/
