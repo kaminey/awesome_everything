@@ -8,7 +8,9 @@ CSS
 
 VIM
 1. https://www.taurusmutualfund.com/pdf/NISM_Distributors_Workbook.pdf
-2. https://www.calhoun.io/5-useful-ways-to-use-closures-in-go/
+
+GOLANG
+1. https://www.calhoun.io/5-useful-ways-to-use-closures-in-go/
 
 JAVASCRIPT
 1. https://javascript.info/
