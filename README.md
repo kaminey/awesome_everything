@@ -5,7 +5,6 @@ CSS
 2. https://github.com/micromata/awesome-css-learning
 3. https://internetingishard.com/
 4. https://unravelingflexbox.com/
-  
   Box shadow
   1. https://www.youtube.com/watch?v=-JNRQ5HjNeI - covers the basic of box shadow.
 
