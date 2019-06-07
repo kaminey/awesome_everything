@@ -21,3 +21,6 @@ JAVASCRIPT
 
 PYTHON DESIGN PATTERNS
 1. https://github.com/faif/python-patterns
+
+DJANGO
+1. https://github.com/wsvincent/awesome-django
