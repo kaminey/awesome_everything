@@ -24,3 +24,6 @@ PYTHON DESIGN PATTERNS
 
 DJANGO
 1. https://github.com/wsvincent/awesome-django
+
+GET FREE DOMAIN
+1. http://www.freenom.com/en/index.html
