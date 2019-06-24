@@ -27,3 +27,6 @@ DJANGO
 
 GET FREE DOMAIN
 1. http://www.freenom.com/en/index.html
+
+NGINX
+1. https://bugs.launchpad.net/ubuntu/+source/nginx/+bug/1581864 - known bug (nginx.service: Failed to parse PID from file /run/nginx.pid: Invalid argument)
