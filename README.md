@@ -30,3 +30,7 @@ GET FREE DOMAIN
 
 NGINX
 1. https://bugs.launchpad.net/ubuntu/+source/nginx/+bug/1581864 - known bug (nginx.service: Failed to parse PID from file /run/nginx.pid: Invalid argument)
+
+
+PYTHON LOGGING
+1. https://lincolnloop.com/blog/django-logging-right-way/ - integration with sentry
