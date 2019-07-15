@@ -15,6 +15,7 @@ VIM
 GOLANG
 1. https://www.calhoun.io/5-useful-ways-to-use-closures-in-go/
 2. https://golangbot.com
+3. https://yourbasic.org/golang/how-to-sort-in-go/
 
 JAVASCRIPT
 1. https://javascript.info/
