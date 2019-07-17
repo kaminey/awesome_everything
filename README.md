@@ -17,6 +17,7 @@ GOLANG
 2. https://golangbot.com
 3. https://yourbasic.org/golang/how-to-sort-in-go/
 4. https://medium.com/rungo/go-introductory-tutorials-896aeda0fb8a
+5. https://gophercises.com/
 
 JAVASCRIPT
 1. https://javascript.info/
